@@ -1,1 +1,0 @@
-# qa-school-backend
